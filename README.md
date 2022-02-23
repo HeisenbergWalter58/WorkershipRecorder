@@ -14,6 +14,9 @@
 
 项目地址：https://github.com/WorkerLivesMatter/WorkingTime
 
+# WLB公司工作时长表
+见上面备份
+
 # 互联网公司—线领导黑名单(别接offer)
 这个没找到网站，最早是流传在各个微信群里的一份文档，目前文档已经被封了，上面有备份。
 或者看这里：https://docs.google.com/spreadsheets/d/1DB6CFK6tCMlsk3LPZB8MzpyuVSMRHwj6lLlzS5EmQkw/edit?usp=sharing
